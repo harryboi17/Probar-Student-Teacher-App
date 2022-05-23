@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerVertical="true"
+    android:background="@drawable/design_gradient"
+    android:orientation="vertical"
+    tools:context=".Admin">
+
+
+    <Button
+        android:id="@+id/addTest"
+        android:layout_width="132dp"
+        android:layout_height="79dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/black"
+        android:fontFamily="@font/aclonica"
+        android:text="Add Test"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.154"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.759" />
+
+    <Button
+        android:id="@+id/viewTest"
+        android:layout_width="130dp"
+        android:layout_height="79dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/aclonica"
+        android:text="view Test"
+        android:textColor="@color/white"
+        app:backgroundTint="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/addTest"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/addTest"
+        app:layout_constraintTop_toBottomOf="@+id/addTest"
+        app:layout_constraintVertical_bias="0.155" />
+
+    <Button
+        android:id="@+id/userDetails"
+        android:layout_width="130dp"
+        android:layout_height="79dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/aclonica"
+        android:text="User details"
+        android:textColor="@color/white"
+        app:backgroundTint="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/viewTest"
+        app:layout_constraintEnd_toEndOf="@+id/viewPdf"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toStartOf="@+id/viewPdf"
+        app:layout_constraintTop_toTopOf="@+id/viewTest"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/viewPdf"
+        android:layout_width="130dp"
+        android:layout_height="79dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/aclonica"
+        android:text="View pdfs"
+        android:textColor="@color/white"
+        app:backgroundTint="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/addTest"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.609"
+        app:layout_constraintStart_toEndOf="@+id/addTest"
+        app:layout_constraintTop_toTopOf="@+id/addTest"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/aclonica"
+        android:text="Admin"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.069" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="223dp"
+        android:layout_height="246dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.282"
+        app:srcCompat="@drawable/firebaselog" />
+
+    <Button
+        android:id="@+id/openFireBase"
+        android:layout_width="216dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/black"
+        android:gravity="center"
+        android:text="open firebase"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/imageView2"
+        app:layout_constraintStart_toStartOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

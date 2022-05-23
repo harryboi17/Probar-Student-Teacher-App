@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#654420" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:centerColor="@android:color/transparent"
+                android:centerX="0.3"
+                android:centerY="0.1"
+                android:endColor="@android:color/transparent"
+                android:startColor="#B07C4F"
+                android:type="sweep" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:centerColor="@android:color/transparent"
+                android:centerX="0.8"
+                android:centerY="0.3"
+                android:endColor="@android:color/transparent"
+                android:startColor="#C19A6B"
+                android:type="sweep" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:centerColor="@android:color/transparent"
+                android:centerX="0.1"
+                android:centerY="0.5"
+                android:endColor="@android:color/transparent"
+                android:startColor="#C19A6B"
+                android:type="sweep" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:centerColor="@android:color/transparent"
+                android:centerX="0.6"
+                android:centerY="0.7"
+                android:endColor="@android:color/transparent"
+                android:startColor="#745335"
+                android:type="sweep" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:centerColor="@android:color/transparent"
+                android:centerX="0.1"
+                android:centerY="0.9"
+                android:endColor="@android:color/transparent"
+                android:startColor="#654420"
+                android:type="sweep" />
+        </shape>
+    </item>
+</layer-list>

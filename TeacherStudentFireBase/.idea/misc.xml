@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/border.xml" value="0.248" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/design2_gradient.xml" value="0.262" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/design_gradient.xml" value="0.248" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/gradient_blue.xml" value="0.248" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/gradient_dark_blue.xml" value="0.248" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/gradient_red.xml" value="0.248" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/gradient_sea_green.xml" value="0.248" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/gradient_white.xml" value="0.248" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/drawable/ic_baseline_visibility_on.xml" value="0.248" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/font/aclonica.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_add_test.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_admin.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_get_pdf.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_registration.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_upload_pdf.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_user.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_users_details.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_view_test.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/activity_view_test_user.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/adaptor_file.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/Harshit/Desktop/My_Projects/TeacherStudentFireBase/app/src/main/res/layout/empty_view.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
